@@ -1,5 +1,8 @@
+# Ignore binaries
 *
 !*.*
 !*/
+
+
 .DS_Store
 .vscode/
